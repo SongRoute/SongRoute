@@ -8,7 +8,7 @@ Computer Science (AI track), Chungbuk National University · Expected graduation
 데이터 수집과 누수 없는 검증부터 모델, 사용자 화면까지 끝까지 연결하는 프로젝트를 해 왔습니다. 측정하지 않은 숫자는 주장하지 않습니다. 
 I build end-to-end projects, from data collection and leakage-safe validation to models and user-facing services, and I only claim results I have measured.
 
-🔗 Portfolio: [songroute.github.io](https://songroute.github.io)
+🔗 Portfolio: [songroute.github.io](https://songroute.github.io) · ✉️ sdstbbd@gmail.com
 
 ## Projects
 
