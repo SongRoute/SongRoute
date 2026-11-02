@@ -1,6 +1,6 @@
 # 송동선
 
-충북대학교 컴퓨터공학(AI 트랙) · AI/ML · 데이터 엔지니어링
+CBNU computer science artificial intelligence · AI/ML · 데이터 엔지니어링
 
 🔗 [포트폴리오](https://songroute.github.io) · ✉️ sdstbbd@gmail.com
 
