@@ -1,6 +1,6 @@
 # 송동선
 
-CBNU computer science artificial intelligence · AI/ML · 데이터 엔지니어링
+CBNU Computer Science (AI) · AI/ML · 데이터 엔지니어링
 
 🔗 [포트폴리오](https://songroute.github.io) · ✉️ sdstbbd@gmail.com
 
